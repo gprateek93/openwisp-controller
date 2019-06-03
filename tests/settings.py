@@ -111,7 +111,7 @@ TEMPLATES = [
 ]
 
 
-SPATIALITE_LIBRARY_PATH = 'mod_spatialite'
+SPATIALITE_LIBRARY_PATH = 'mod_spatialite.so'
 
 FORM_RENDERER = 'django.forms.renderers.TemplatesSetting'
 
