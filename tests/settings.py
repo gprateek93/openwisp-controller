@@ -110,6 +110,9 @@ TEMPLATES = [
     }
 ]
 
+
+SPATIALITE_LIBRARY_PATH = 'mod_spatialite'
+
 FORM_RENDERER = 'django.forms.renderers.TemplatesSetting'
 
 EMAIL_PORT = '1025'  # for testing purposes
